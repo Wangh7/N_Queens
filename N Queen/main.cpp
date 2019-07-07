@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  N Queen
+//  N Queen 
 //
 //  Created by wbb on 2018/5/14.
 //  Copyright © 2018年 Wangh7. All rights reserved.
